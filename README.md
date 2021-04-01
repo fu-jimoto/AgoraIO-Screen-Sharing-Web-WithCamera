@@ -1,1 +1,0 @@
-# AgoraIO-Screen-Sharing-Web-WithCamera
